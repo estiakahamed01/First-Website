@@ -3,3 +3,9 @@ div{
     padding: 10px;
     margin: 10px;
 }
+
+.image{
+    border: 5px solid red;
+    border-radius: 1200px;
+    /* size: 100px 150px 350px; */
+}
